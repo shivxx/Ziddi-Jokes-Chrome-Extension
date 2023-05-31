@@ -1,0 +1,23 @@
+p {
+    background-color: #fff71d;
+    color: black;
+    border: none;
+    margin: auto 10px;
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-flex;
+    font-size: 25px;
+    width: 400px;
+    border-radius: 6px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    
+}
+
+body {
+    justify-content: center;
+}
+
+
+
